@@ -30,9 +30,6 @@ AWS Bedrock provides easy access to advanced generative AI models through a unif
 
 ---
 
-![AWS ChatGPT Architecture](https://github.com/user-attachments/assets/1a9fe8cb-f661-411a-ac4e-1dc9a12a946d)
-
-
-
+https://github.com/user-attachments/assets/1a9fe8cb-f661-411a-ac4e-1dc9a12a946d
 
 ![image](https://github.com/user-attachments/assets/df3d3c78-d2ca-47b0-90e3-0e5a33e7255e)

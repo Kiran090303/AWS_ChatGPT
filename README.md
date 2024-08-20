@@ -32,4 +32,10 @@ AWS Bedrock provides easy access to advanced generative AI models through a unif
 
 https://github.com/user-attachments/assets/1a9fe8cb-f661-411a-ac4e-1dc9a12a946d
 
+## 🔨 Create IAM Role
+
+<img width="956" alt="IAM role" src="https://github.com/user-attachments/assets/beeb01a6-2ca8-4320-bc1d-1590b9491181">
+
+Attach the `AmazonBedrockFullAccess` policy and `CloudWatchLogsFullAccess` to the role.
+
 ![image](https://github.com/user-attachments/assets/df3d3c78-d2ca-47b0-90e3-0e5a33e7255e)
